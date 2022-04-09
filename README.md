@@ -9,4 +9,4 @@ usage: python3 userparse.py {file.txt}
 
 after running parser:
 
-![image2](https://user-images.githubusercontent.com/59236083/162578584-2fc2640b-dd2a-42e9-af1a-96836c43bdc4.png)
+![image2](https://user-images.githubusercontent.com/59236083/162578618-9e08e9ee-faca-4d4e-812a-1dc4021cfaa7.png)
