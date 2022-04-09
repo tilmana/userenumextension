@@ -7,4 +7,6 @@ usage: python3 userparse.py {file.txt}
 
 ![image1](https://user-images.githubusercontent.com/59236083/162578583-152f2015-9349-482e-9dc1-d71be519bc4d.png)
 
+after running parser:
+
 ![image2](https://user-images.githubusercontent.com/59236083/162578584-2fc2640b-dd2a-42e9-af1a-96836c43bdc4.png)
