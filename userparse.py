@@ -6,7 +6,8 @@ allUsers = []
 try:
     sys.argv[1]
 except Exception:
-    print("Syntax: python3 script.py file.txt (kerbrute userenum output)")
+    print("Syntax: python3 script.py users.txt")
+    print("Syntax with output: python3 script.py users.txt output.txt")
     sys.exit("Error: no arguments provided!")
 try:
     sys.argv[2]
