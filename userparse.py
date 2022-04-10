@@ -38,4 +38,4 @@ try:
         f.writelines(user + "\n")
     f.close()
 except Exception:
-    print("Error: " + str(Exception) + "!")
+    print("Error: unable to write to file '" + str(sys.argv[2] + "'!"))
