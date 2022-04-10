@@ -19,7 +19,7 @@ try:
     f = open(sys.argv[1], "r")
 except Exception:
     print("Unable to find file: '" + str(sys.argv[1]) + "'!y (check read permissions/spelling)")
-    sys.exit(0)
+    sys.exit(1)
 
 for line in f.readlines():
     if "VALID USERNAME:" in line:
