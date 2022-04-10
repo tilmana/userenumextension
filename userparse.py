@@ -18,7 +18,7 @@ except Exception:
 try:
     f = open(sys.argv[1], "r")
 except Exception:
-    print("Unable to find file: '" + str(sys.argv[1]) + "'!y (check read permissions/spelling)")
+    print("Unable to find file: '" + str(sys.argv[1]) + "'! (check read permissions/spelling)")
     sys.exit(1)
 
 for line in f.readlines():
